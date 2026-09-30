@@ -6,8 +6,7 @@ I work at the intersection of **business, technology, financial services, resear
 
 My approach combines **business analysis, relationship management, product thinking, data analysis and technology** to understand problems end-to-end, simplify complex ideas and design practical solutions.
 
-📄 **[View My Resume](https://github.com/meshdee/Business-Architecture)** · 💻 **[Explore My GitHub Projects](https://github.com/meshdee?tab=repositories)**
-
+📄 **[View My Resume](https://github.com/meshdee/meshack-resume/blob/main/Meshack-Wanyama-Resume.pdf)** · 💻 **[Explore My GitHub Projects](https://github.com/meshdee?tab=repositories)**
 ---
 
 ## 🚀 Featured Project

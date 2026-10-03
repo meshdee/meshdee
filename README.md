@@ -301,12 +301,11 @@ I am particularly interested in opportunities where I can contribute across:
 
 # 📄 Professional Resources
 
-* 📑 **[Resume](https://github.com/meshdee/Business-Architecture)** — Professional profile, experience, skills and selected achievements
-* 💻 **[GitHub Projects](https://github.com/meshdee?tab=repositories)**
-* 🏠 **[M-PESA Rent Wallet](https://github.com/meshdee/Mpesa-Rent-Wallet)**
-* 🏗️ **[M-PESA Rent Wallet Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture)**
-* 📊 **[M-PESA Rent Wallet Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)**
-
+* 📑 **[Resume](https://github.com/meshdee/meshack-resume/blob/main/Meshack-Wanyama-Resume.pdf)** — Professional profile, experience, skills and selected achievements
+* 💻 **[GitHub Projects](https://github.com/meshdee?tab=repositories)** — Collection of projects, prototypes, technical work and professional initiatives
+* 🏠 **[M-PESA Rent Wallet](https://github.com/meshdee/Mpesa-Rent-Wallet)** — Independent FinTech prototype exploring rent savings, payments, transactions and property management
+* 🏗️ **[M-PESA Rent Wallet Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture)** — Business and enterprise architecture models covering capabilities, applications, data, integration, security and transition
+* 📊 **[M-PESA Rent Wallet Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)** — Project presentation covering the concept, business problem, solution, architecture and digital ecosystem
 ---
 
 # 🤝 Let's Connect

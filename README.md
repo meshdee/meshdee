@@ -1,3 +1,4 @@
+
 # Meshack Wanyama Wekesa
 
 ### Business Architecture | Relationship Management | Innovation | Product Development | Digital Transformation | FinTech | Research Specialist
@@ -7,6 +8,7 @@ I work at the intersection of **business, technology, financial services, resear
 My approach combines **business analysis, relationship management, product thinking, data analysis and technology** to understand problems end-to-end, simplify complex ideas and design practical solutions.
 
 📄 **[View My Resume](https://github.com/meshdee/meshack-resume/blob/main/Meshack-Wanyama-Resume.pdf)** · 💻 **[Explore My GitHub Projects](https://github.com/meshdee?tab=repositories)**
+
 ---
 
 ## 🚀 Featured Project
@@ -19,22 +21,30 @@ An independent FinTech prototype exploring how **rent savings, scheduled rent pa
 
 The project demonstrates how an idea can progress from **business concept and architecture through application development, database design, APIs, documentation and presentation**.
 
+### 🌐 Live Application
+
+**[🚀 Launch M-PESA Rent Wallet](https://site-756f2fe6d017421b8e8fea47017b9c24.freebuff.page/)**
+
+Explore the published application prototype and its rent savings, payment and property management features.
+
+*Save smart. Pay rent. Build your future.*
+
 ### Project Journey
 
 > **Concept → Business Architecture → Application → Database → APIs → Documentation → Presentation**
 
 ### What the project brings together
 
-* 🏗️ Business & Enterprise Architecture
-* 💳 FinTech product design
-* 📱 Digital payment concepts
-* 💻 Application development
-* 🔗 API & system integration
-* 🗄️ Database architecture
-* 🏠 Property management workflows
-* 📊 Data & transaction flows
-* 🔐 Security and risk considerations
-* 📈 Reporting & analytics
+- 🏗️ Business & Enterprise Architecture
+- 💳 FinTech product design
+- 📱 Digital payment concepts
+- 💻 Application development
+- 🔗 API & system integration
+- 🗄️ Database architecture
+- 🏠 Property management workflows
+- 📊 Data & transaction flows
+- 🔐 Security and risk considerations
+- 📈 Reporting & analytics
 
 ---
 
@@ -50,20 +60,22 @@ The M-PESA Rent Wallet prototype includes a tenant-facing workspace for managing
 
 The application provides functionality around:
 
-* Rent savings targets
-* Monthly rent goals
-* Rent due dates
-* Tenant information
-* Property and unit management
-* Landlord information
-* Rental transactions
-* Payment confirmation
-* Wallet status
-* Notifications and reporting
+- Rent savings targets
+- Monthly rent goals
+- Rent due dates
+- Tenant information
+- Property and unit management
+- Landlord information
+- Rental transactions
+- Payment confirmation
+- Wallet status
+- Notifications and reporting
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meshdee/meshdee/main/assets/images/Save%20Rent.png" alt="M-PESA Rent Wallet Save Rent Dashboard" width="650">
 </p>
+
+**[🌐 Explore the Live Application](https://site-756f2fe6d017421b8e8fea47017b9c24.freebuff.page/)**
 
 ---
 
@@ -75,13 +87,13 @@ The project is supported by an architecture repository developed using **ArchiMa
 
 The ecosystem identifies key participants and relationships including:
 
-* Tenant
-* Landlord
-* Property Manager
-* M-PESA / Safaricom
-* Payment Service Provider
-* Financial Institution
-* Regulator
+- Tenant
+- Landlord
+- Property Manager
+- M-PESA / Safaricom
+- Payment Service Provider
+- Financial Institution
+- Regulator
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meshdee/meshdee/main/assets/images/Business%20Ecosystem.png" alt="M-PESA Rent Wallet Business Ecosystem" width="600">
@@ -93,18 +105,18 @@ The capability model identifies the capabilities required to support the rental 
 
 Key capabilities include:
 
-* Tenant Management
-* Landlord Management
-* Property Management
-* Rent Collection
-* Payment Processing
-* Payment Reconciliation
-* Identity & Access Management
-* Notifications & Alerts
-* Dispute Management
-* Regulatory & Compliance Management
-* Rental Transaction Management
-* Reporting & Analytics
+- Tenant Management
+- Landlord Management
+- Property Management
+- Rent Collection
+- Payment Processing
+- Payment Reconciliation
+- Identity & Access Management
+- Notifications & Alerts
+- Dispute Management
+- Regulatory & Compliance Management
+- Rental Transaction Management
+- Reporting & Analytics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meshdee/meshdee/main/assets/images/Capabilities.png" alt="M-PESA Rent Wallet Business Capability Map" width="600">
@@ -116,20 +128,20 @@ The application architecture illustrates how the different modules and services 
 
 Key components include:
 
-* Rent Wallet Core Platform
-* Identity & Access Management
-* Tenant Management
-* Landlord Management
-* Property Management
-* Lease & Rent Management
-* Rent Collection Engine
-* Payment Processing Engine
-* M-PESA Integration Gateway
-* Settlement & Reconciliation Engine
-* Payment Confirmation Service
-* Notification Service
-* Reporting & Analytics Engine
-* Compliance & Audit Engine
+- Rent Wallet Core Platform
+- Identity & Access Management
+- Tenant Management
+- Landlord Management
+- Property Management
+- Lease & Rent Management
+- Rent Collection Engine
+- Payment Processing Engine
+- M-PESA Integration Gateway
+- Settlement & Reconciliation Engine
+- Payment Confirmation Service
+- Notification Service
+- Reporting & Analytics Engine
+- Compliance & Audit Engine
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/meshdee/meshdee/main/assets/images/Application%20Integration.png" alt="M-PESA Rent Wallet Application Integration Architecture" width="650">
@@ -141,9 +153,11 @@ Key components include:
 
 ### 🏠 Application
 
-**[M-PESA Rent Wallet](https://github.com/meshdee/Mpesa-Rent-Wallet)**
+**[🌐 M-PESA Rent Wallet – Live Application](https://site-756f2fe6d017421b8e8fea47017b9c24.freebuff.page/)**
 
-Application repository containing the working prototype, backend, frontend, database and supporting documentation.
+**[💻 M-PESA Rent Wallet – GitHub Repository](https://github.com/meshdee/Mpesa-Rent-Wallet)**
+
+Explore the published application and its supporting source code, frontend, backend, database and documentation.
 
 ### 🏗️ Architecture
 
@@ -151,21 +165,21 @@ Application repository containing the working prototype, backend, frontend, data
 
 Architecture repository covering:
 
-* Business ecosystem
-* Business capabilities
-* Value streams
-* Application architecture
-* Data architecture
-* M-PESA integration
-* Security and risk
-* Governance
-* Implementation & transition
+- Business ecosystem
+- Business capabilities
+- Value streams
+- Application architecture
+- Data architecture
+- M-PESA integration
+- Security and risk
+- Governance
+- Implementation & transition
 
 ### 📊 Presentation
 
 **[M-PESA Rent Wallet Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)**
 
-Presentation material explaining the business problem, concept, architecture, product proposition and potential ecosystem.
+Presentation material explaining the business problem, concept, product proposition, architecture and potential ecosystem.
 
 ---
 
@@ -175,34 +189,34 @@ I am interested in understanding how different parts of an organisation or digit
 
 ## Business
 
-* Business Architecture
-* Concept Development
-* Business Analysis
-* Process Analysis
-* Product Development
-* Market Research
-* Strategic Partnerships
-* Relationship Management
+- Business Architecture
+- Concept Development
+- Business Analysis
+- Process Analysis
+- Product Development
+- Market Research
+- Strategic Partnerships
+- Relationship Management
 
 ## Technology
 
-* Solution Architecture
-* Application Architecture
-* Data & Database Design
-* API & System Integration
-* Digital Platforms
-* Process Automation
-* FinTech Solutions
-* Digital Transformation
+- Solution Architecture
+- Application Architecture
+- Data & Database Design
+- API & System Integration
+- Digital Platforms
+- Process Automation
+- FinTech Solutions
+- Digital Transformation
 
 ## People & Products
 
-* Customer Experience
-* Product Training
-* Brand & Product Communication
-* Stakeholder Management
-* Relationship Management
-* Simplifying Complex Ideas
+- Customer Experience
+- Product Training
+- Brand & Product Communication
+- Stakeholder Management
+- Relationship Management
+- Simplifying Complex Ideas
 
 ---
 
@@ -242,7 +256,7 @@ An end-to-end prototype exploring a connected digital rental ecosystem.
 
 **Explore:**
 
-[Application](https://github.com/meshdee/Mpesa-Rent-Wallet) · [Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture) · [Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)
+[🌐 Live Application](https://site-756f2fe6d017421b8e8fea47017b9c24.freebuff.page/) · [Application Repository](https://github.com/meshdee/Mpesa-Rent-Wallet) · [Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture) · [Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)
 
 ---
 
@@ -272,20 +286,20 @@ A collection of professional work, experience, concepts and selected projects.
 
 # 🧩 Areas of Interest
 
-* FinTech
-* Digital Banking
-* Payments
-* Financial Inclusion
-* Business Architecture
-* Enterprise Architecture
-* Digital Transformation
-* Innovation
-* Product Development
-* Customer Experience
-* Business Process Automation
-* Data & Analytics
-* Strategic Partnerships
-* Research & Market Intelligence
+- FinTech
+- Digital Banking
+- Payments
+- Financial Inclusion
+- Business Architecture
+- Enterprise Architecture
+- Digital Transformation
+- Innovation
+- Product Development
+- Customer Experience
+- Business Process Automation
+- Data & Analytics
+- Strategic Partnerships
+- Research & Market Intelligence
 
 ---
 
@@ -301,25 +315,27 @@ I am particularly interested in opportunities where I can contribute across:
 
 # 📄 Professional Resources
 
-* 📑 **[Resume](https://github.com/meshdee/meshack-resume/blob/main/Meshack-Wanyama-Resume.pdf)** — Professional profile, experience, skills and selected achievements
-* 💻 **[GitHub Projects](https://github.com/meshdee?tab=repositories)** — Collection of projects, prototypes, technical work and professional initiatives
-* 🏠 **[M-PESA Rent Wallet](https://github.com/meshdee/Mpesa-Rent-Wallet)** — Independent FinTech prototype exploring rent savings, payments, transactions and property management
-* 🏗️ **[M-PESA Rent Wallet Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture)** — Business and enterprise architecture models covering capabilities, applications, data, integration, security and transition
-* 📊 **[M-PESA Rent Wallet Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)** — Project presentation covering the concept, business problem, solution, architecture and digital ecosystem
+- 📑 **[Resume](https://github.com/meshdee/meshack-resume/blob/main/Meshack-Wanyama-Resume.pdf)** — Professional profile, experience, skills and selected achievements.
+- 💻 **[GitHub Projects](https://github.com/meshdee?tab=repositories)** — Collection of projects, prototypes, technical work and professional initiatives.
+- 🌐 **[Live M-PESA Rent Wallet Application](https://site-756f2fe6d017421b8e8fea47017b9c24.freebuff.page/)** — Explore the published application prototype.
+- 🏠 **[M-PESA Rent Wallet](https://github.com/meshdee/Mpesa-Rent-Wallet)** — Independent FinTech prototype exploring rent savings, payments, transactions and property management.
+- 🏗️ **[M-PESA Rent Wallet Architecture](https://github.com/meshdee/Mpesa-Rent-Wallet-Architecture)** — Business and enterprise architecture models covering capabilities, applications, data, integration, security and transition.
+- 📊 **[M-PESA Rent Wallet Presentation](https://github.com/meshdee/M-PESA-Rent-Wallet-Presentation)** — Project presentation covering the concept, business problem, solution, architecture and digital ecosystem.
+
 ---
 
 # 🤝 Let's Connect
 
 I am open to conversations around:
 
-* Business Architecture
-* FinTech
-* Innovation
-* Digital Transformation
-* Product Development
-* Strategic Partnerships
-* Research & Market Intelligence
-* Technology-enabled business solutions
+- Business Architecture
+- FinTech
+- Innovation
+- Digital Transformation
+- Product Development
+- Strategic Partnerships
+- Research & Market Intelligence
+- Technology-enabled business solutions
 
 ---
 
